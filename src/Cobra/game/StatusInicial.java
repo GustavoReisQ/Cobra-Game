@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class StatusInicial {
     public static void main(String[] args) {
-        System.out.println("Start");
+        System.out.println("===== SNAKE GAME =====");
         System.out.println("Deseja iniciar o jogo? S/N");
         Scanner teclado = new Scanner(System.in);
         String resposta = teclado.next();
