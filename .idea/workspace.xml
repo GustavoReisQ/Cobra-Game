@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a15d9b95-b63e-441d-a575-63f3a3b794d9" name="Changes" comment="Teclado teste inicial">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cobra/game/Start.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Cobra/game/StatusInicial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cobra/game/StatusInicial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -43,8 +45,8 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StatusInicial">
-    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.MainBox">
+    <configuration name="Cobra.game.Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Cobra.game.Start" />
       <module name="Cobra-Game" />
       <extension name="coverage">
@@ -57,8 +59,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StatusInicial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Cobra.game.StatusInicial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Cobra.game.StatusInicial" />
+      <module name="Cobra-Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cobra.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cobra.game.SwingSnake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cobra.game.SwingSnake" />
+      <module name="Cobra-Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cobra.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cobra.game.MainBox" />
       <module name="Cobra-Game" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +100,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StatusInicial" />
-        <item itemvalue="Application.Start" />
+        <item itemvalue="Application.MainBox" />
+        <item itemvalue="Application.Cobra.game.StatusInicial" />
+        <item itemvalue="Application.Cobra.game.SwingSnake" />
+        <item itemvalue="Application.Cobra.game.Start" />
       </list>
     </recent_temporary>
   </component>
